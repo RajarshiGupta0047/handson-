@@ -1,0 +1,11 @@
+/* You can add global styles to this file, and also import other style files */
+body{
+    background: url("https://www.wallpapers13.com/wp-content/uploads/2019/07/Nanjing-Third-Bridge-Yangtze-River-Sanqiao-Sunset-China-4K-Ultra-HD-Wallpapers-for-Desktop-3840x2400-915x515.jpg");
+    
+
+  /* Center and scale the image nicely */
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
